@@ -3,22 +3,22 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Requirements
-- Install [Node.js](https://nodejs.org/en/download/)
+- Install [node.js](https://nodejs.org/en/download/)
 - Install [create-react-app]()
 
 ## Getting started
 
 1. Clone the repository
 
-    `git clone https://github.com/coding-group-gbg/website.git`
+    ### `git clone https://github.com/coding-group-gbg/website.git`
 
 2. Install npm packages
 
-    `npm install`
+    ### `npm install`
 
 3. Run application
 
-    `npm start`
+    ### `npm start`
 
 ## Available Scripts
 
