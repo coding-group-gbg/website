@@ -8,11 +8,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Getting started
 
-1. Clone the repository
+1. Open a terminal
+2. Clone the repository
 
     ### `git clone https://github.com/coding-group-gbg/website.git`
 
-2. Install npm packages
+3. Change directory
+
+    ### `cd website`
+
+4. Install npm packages
 
     ### `npm install`
 
