@@ -5,4 +5,7 @@
 
 ## Getting started
 1. Clone the repository
-2.
+
+    `git clone https://github.com/coding-group-gbg/website.git`
+
+2. 
