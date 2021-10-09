@@ -5,12 +5,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Need to install:
 - [git](https://git-scm.com/downloads)
 - [node.js](https://nodejs.org/en/download/)
-- [create-react-app]()
 
 ## Getting started
 
-1. Open a terminal
-2. Clone the repository
+1. Install required software (see above)
+2. Open a terminal
+3. Clone the repository
 
     ### `git clone https://github.com/coding-group-gbg/website.git`
 
