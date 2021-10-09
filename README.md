@@ -12,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 2. Open a terminal
 3. Clone the repository
 
-    ### `git clone https://github.com/coding-group-gbg/website.git`
+    ### `git clone https://github.com/dataakademin/website.git`
 
 3. Change directory
 
