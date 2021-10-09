@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Requirements
+- Install [git](https://git-scm.com/downloads)
 - Install [node.js](https://nodejs.org/en/download/)
 - Install [create-react-app]()
 
