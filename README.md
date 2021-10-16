@@ -26,7 +26,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
     ### `npm start`
 
-### Available Scripts
+### Git Scripts
+
+#### `git add .`
+#### `git commit -m "comment"`
+#### `git push`
+#### `git pull`
+
+### Available React Scripts
 
 In the project directory, you can run:
 
