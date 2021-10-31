@@ -5,20 +5,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Need to install:
 - [git](https://git-scm.com/downloads)
 - [node.js](https://nodejs.org/en/download/)
+- [Visual Studio Code](https://code.visualstudio.com/download)
 
 ## Getting started
 
 1. Install required software (see above)
-2. Open a terminal
-3. Clone the repository
+2. Open a terminal in Visual Studio Code (Terminal-->New Terminal)
+3. Change directory to desktop
+4. Clone the repository: In the terminal window 
+    a. ### `git clone https://github.com/dataakademin/website.git`
+5. Visual Stuido Code: File-->Open new folder. Hitta mappen som hetter Website 
 
-    ### `git clone https://github.com/dataakademin/website.git`
-
-3. Change directory
-
-    ### `cd website`
-
-4. Install npm packages
+6. Install npm packages
 
     ### `npm install`
 
