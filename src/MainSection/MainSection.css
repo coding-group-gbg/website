@@ -1,0 +1,57 @@
+.MainSection {
+    display: flex;
+    padding: 250px 150px;
+    justify-content: space-between;
+}
+
+.MainSection-text {
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between ;
+    align-items:center;
+    margin: 0 30px;
+    font-size: 50px;
+
+  }
+
+#MainText-one {
+    font-size: 47px;
+    color: #18216d;
+    margin: 10 24px;
+    
+}
+
+#MainText-two {
+    font-size: 20px;
+    font-weight: 100;
+    color: #18216d;
+    margin: 24 32px;
+
+}
+
+.MainSection-image {
+    height: 300px;
+}
+
+.MainSection-buttons {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+#Explore {
+    color: #2e186a;
+    border: none;
+    padding: 0 20px;
+    border-radius: 10px;
+    height: 40px;
+}
+
+#Learn-More {
+    color: #2e186a;
+    border: none;
+    padding: 0 20px;
+    border-radius: 10px;
+    height: 40px;
+
+}
