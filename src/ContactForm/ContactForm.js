@@ -10,8 +10,11 @@ function ContactForm() {
             </div>
 
             <div className="Form">
+                <h6> Namn </h6> 
                 <input placeholder="Ditt Namn"></input>
+                <h6> Mail </h6>
                 <input placeholder="Mail"></input>
+                <h6> Meddela </h6>
                 <input placeholder="Ditt meddelande"></input>
 
 
