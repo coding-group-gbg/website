@@ -4,9 +4,14 @@ function MainSection() {
     return (
        <div className="MainSection">
          <div className="MainSection-text">
-            <p><a id="MainText-one" href="/Landing page template for developers & startups">Landing page template for developers & startups</a></p>
-            <p><a id="MainText-two" href="/Beautifully designed templates using React.js, ant design and styled-components! Save weeks of time and build your landing page in minutes.">
-                Beautifully designed templates using React.js, ant design and styled-components! Save weeks of time and build your landing page in minutes.</a></p>
+             
+            <a href="/Landing page template for developers & startups">
+                <p id="MainText-one">Landing page template for developers & startups</p>
+            </a>
+            
+            <a href="/Beautifully designed templates using React.js, ant design and styled-components! Save weeks of time and build your landing page in minutes.">
+                <p id="MainText-two"> Beautifully designed templates using React.js, ant design and styled-components! Save weeks of time and build your landing page in minutes</p>
+            </a>
             
             <div className="MainSection-buttons"> 
                 <a href="/Explore"><button id="Explore">Explore</button></a> 
