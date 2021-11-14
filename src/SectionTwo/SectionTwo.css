@@ -1,0 +1,32 @@
+.SectionTwo {
+    max-width: 100vw;
+    display: flex;
+    justify-content: center;
+    padding-left: 50px;
+    gap: 30px;
+}
+
+#section-two-image {
+    height: auto;
+    max-width: 50vw;
+}
+
+#section-two-half-two {
+    flex-grow: 2;
+    max-width: 50vw;
+}
+
+#sec2-half2-subsection {
+    display: flex;
+    justify-content: start;
+    padding-right: 10px;
+    gap: 15px;
+}
+
+#sec2-half2-subsection > div:first-child {
+    max-width: 50%;
+}
+
+#sec2-half2-subsection > div:last-child {
+    flex-grow: 2;
+}
