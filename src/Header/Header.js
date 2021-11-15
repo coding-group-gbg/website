@@ -1,4 +1,4 @@
-import logo from '../assets/logo.png';
+import logo from '../assets/logo2.png';
 import './Header.css'
 
 function Header() {
@@ -10,7 +10,7 @@ function Header() {
         <div className="header-text">
           <p><a href="/om-oss">Om oss</a></p>
           <p><a href="/var-vision">Vår vision</a></p>
-          <button id="contact-button"><a href="/kontakta-oss">Kontakta oss</a></button>
+          <button id="contact-button"><a href="/kontakta-oss">Kontakt</a></button>
         </div>
       </header>
     )

@@ -1,13 +1,20 @@
 .App-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin: 0 30px;
-  }
-  
-  #logo {
-    height: 40px;
-  }
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 30px;
+  color: #23318F;
+  font-weight: 500;
+  padding-top: 10px;
+}
+
+button > a {
+  color: white;
+}
+
+#logo {
+  height: 20px;
+}
   
   .header-text {
     display: flex;
@@ -15,16 +22,23 @@
     align-items: center;
   }
   
+<<<<<<< HEAD
   a {
     color: black;
     text-decoration: none;
     font-weight: 600;
   }
+=======
+a {
+  text-decoration: none;
+  font-size: 18px;
+}
+>>>>>>> 06f5c5d011aa031d6923c1dab0870f362bd73329
   
-  #contact-button {
-    background-color: #C4C4C4;
+
+#contact-button {
+    background-color: #23318F;
     border: none;
-    padding: 0 20px;
+    padding: 10px 50px;
     border-radius: 10px;
-    height: 40px;
   }
