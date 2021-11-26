@@ -21,11 +21,6 @@ function ContactForm() {
             
             </div>
 
-        
-
-
-
-
        </div>
     )
 }
