@@ -10,13 +10,15 @@ function ContactForm() {
             </div>
 
             <div className="Form">
-                <label> Namn </label> 
+                {/*<label> Namn </label>*/ }
                 <input class="Form-name" placeholder="Ditt Namn"></input>
                 <label> Mail </label>
                 <input class="Form-mail" placeholder=" Ditt Mail"></input>
                 <label> Meddelande </label>
                 <input class="Form-message" placeholder="Ditt meddelande"></input>
                 <button class="Submit-button" > Skicka</button>
+                <label> Mail </label> 
+                <input class="Form-name" placeholder="namn@gmail.com"></input>
 
 
             
